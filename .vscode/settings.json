@@ -1,0 +1,10 @@
+{
+    "dart.flutterAdbConnectOnChromeOs": true,
+    "dart.flutterAndroidX": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "dart.enableCompletionCommitCharacters": true,
+    "dart.triggerSignatureHelpAutomatically": true
+}
