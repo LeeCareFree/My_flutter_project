@@ -1,4 +1,6 @@
-# my_flutter_app01
+# my_flutter_project
+### 这是跟着技术胖老师的教学视频写的一个flutter商城项目
+### 教学视频地址https://www.jspang.com/
 
 A new Flutter application.
 
